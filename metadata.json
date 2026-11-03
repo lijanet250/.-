@@ -1,0 +1,6 @@
+{
+  "name": "Rimba Kalimantan: Lindungi Jantung Borneo",
+  "description": "Portal visual dan interaktif untuk pelestarian hutan hujan, pemantauan kebakaran gambut terkini, keanekaragaman hayati endemik, dan seruan bersama menghentikan pembakaran hutan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
